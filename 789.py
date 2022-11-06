@@ -1,0 +1,1 @@
+print(0 if int(input())<5 else 1)
